@@ -2,7 +2,7 @@
 🔭 Estou trabalhando atualmente com: Nada<br>- 🌱Estou aprendendo HTML5, CSS3, SQL(banco de dados em geral), Portugol e C++<br>- 😄 Pronomes: ele/dele<br>- ⚡ curiosidade: Estou cursando Informática para Internet na Etecvav(CPS)
 
 
-## 🌐 Socials:
+## 🌐 Rede Social:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaioruan2011) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaioruan2011) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@k_ruan.11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaio.jundiai2011@gmail.com) 
 
 # 💻 Tech Stack:
