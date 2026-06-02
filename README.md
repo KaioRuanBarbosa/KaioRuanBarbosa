@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou trabalhando atualmente com: Nada<br>- 🌱Estou aprendendo HTML5, CSS3, SQL(banco de dados em geral), Portugol e C++<br>- 😄 Pronomes: ele/dele<br>- ⚡ curiosidade: Estou cursando Informática para Internet na Etecvav(CPS)
+🔭 Estou trabalhando atualmente com: Apenas Estudando<br>- 🌱Estou aprendendo HTML5, CSS3, SQL(banco de dados em geral), Portugol e C++<br>- 😄 Pronomes: ele/dele<br>- ⚡ curiosidade: Estou cursando Informática para Internet na Etecvav(CPS)
 
 
 ## 🌐 Rede Social:
