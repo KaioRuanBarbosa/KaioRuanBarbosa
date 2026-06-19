@@ -19,3 +19,7 @@
 [![](https://komarev.com/ghpvc/?username=KaioRuanBarbosa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align = center>
+  <img src="https://raw.githubusercontent.com/KaioRuanBarbosa/KaioRuanBarbosa/output/snake.svg" alt="Snake animation" />
+</div>
