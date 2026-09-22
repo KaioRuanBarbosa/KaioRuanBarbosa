@@ -20,5 +20,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-![snake gif](https://github.com/KaioRuanBarbosa/KaioRuanBarbosa/blob/output/github-snake-dark.svg)
+<div align = center>
+  <img src="https://raw.githubusercontent.com/KaioRuanBarbosa/KaioRuanBarbosa/output/snake.svg" alt="Snake animation" />
+</div>
