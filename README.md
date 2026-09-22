@@ -19,3 +19,6 @@
 [![](https://komarev.com/ghpvc/?username=KaioRuanBarbosa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/KaioRuanBarbosa/KaioRuanBarbosa/blob/output/github-snake-dark.svg)
